@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exam Results - PREP</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">
+                <h1>PREP</h1>
+            </div>
+            <button class="theme-toggle" id="themeToggle">
+                <span class="icon">🌙</span>
+            </button>
+        </header>
+
+        <main class="results-content">
+            <div class="results-header">
+                <h2>Exam Results</h2>
+                <p>Your performance summary</p>
+            </div>
+
+            <div class="score-overview">
+                <div class="total-score">
+                    <h3>Total Score</h3>
+                    <div class="score-display">
+                        <span class="score-value" id="totalScore">0</span>
+                        <span class="score-max">/400</span>
+                    </div>
+                    <p class="percentage" id="percentage">0%</p>
+                </div>
+            </div>
+
+            <div class="subject-results" id="subjectResults"></div>
+
+            <div class="results-actions">
+                <button class="btn-primary" onclick="location.href='subjects.html'">
+                    Take Another Exam
+                </button>
+                <button class="btn-secondary" onclick="location.href='index.html'">
+                    Back to Home
+                </button>
+            </div>
+        </main>
+
+        <footer>
+            <p>&copy; 2024 PREP. Your path to JAMB success.</p>
+        </footer>
+    </div>
+
+    <script src="theme.js"></script>
+    <script src="results.js"></script>
+</body>
+</html>

@@ -1,0 +1,1623 @@
+{
+  "english": [
+    {
+      "question": "Choose the option that best completes the sentence: The students were asked to _____ their assignments before the deadline.",
+      "options": ["submit", "submits", "submitted", "submitting"],
+      "correct": 0
+    },
+    {
+      "question": "Identify the grammatically correct sentence:",
+      "options": [
+        "Neither the teacher nor the students was present",
+        "Neither the teacher nor the students were present",
+        "Neither the teacher or the students were present",
+        "Neither the teacher and the students was present"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What is the antonym of 'abundant'?",
+      "options": ["Plentiful", "Scarce", "Sufficient", "Ample"],
+      "correct": 1
+    },
+    {
+      "question": "Choose the correct spelling:",
+      "options": ["Accomodate", "Accommodate", "Acomodate", "Acommodate"],
+      "correct": 1
+    },
+    {
+      "question": "The word 'meticulous' means:",
+      "options": ["Careless", "Careful and precise", "Fast", "Lazy"],
+      "correct": 1
+    },
+    {
+      "question": "In the sentence 'The book is on the table', what part of speech is 'on'?",
+      "options": ["Noun", "Verb", "Preposition", "Adjective"],
+      "correct": 2
+    },
+    {
+      "question": "What is the plural of 'analysis'?",
+      "options": ["Analysises", "Analysis", "Analyses", "Analysies"],
+      "correct": 2
+    },
+    {
+      "question": "Choose the option with the correct punctuation: 'The teacher said _____ you must study hard'",
+      "options": [", that", "that,", "that", ", 'that"],
+      "correct": 0
+    },
+    {
+      "question": "What is a synonym for 'vivid'?",
+      "options": ["Dull", "Bright", "Dark", "Pale"],
+      "correct": 1
+    },
+    {
+      "question": "Identify the figure of speech: 'The world is a stage'",
+      "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+      "correct": 1
+    },
+    {
+      "question": "What type of sentence is this: 'Stop talking!'",
+      "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+      "correct": 2
+    },
+    {
+      "question": "Choose the correct form: 'If I _____ you, I would study harder'",
+      "options": ["am", "was", "were", "be"],
+      "correct": 2
+    },
+    {
+      "question": "What is the meaning of the idiom 'break the ice'?",
+      "options": ["To destroy something", "To start a conversation", "To be cold", "To fail"],
+      "correct": 1
+    },
+    {
+      "question": "Identify the adverb in: 'She speaks very softly'",
+      "options": ["She", "speaks", "very", "softly"],
+      "correct": 3
+    },
+    {
+      "question": "What is the past participle of 'write'?",
+      "options": ["Wrote", "Written", "Writing", "Writes"],
+      "correct": 1
+    },
+    {
+      "question": "Choose the option that best completes: 'She has been waiting _____ two hours'",
+      "options": ["since", "for", "from", "at"],
+      "correct": 1
+    },
+    {
+      "question": "What type of pronoun is 'myself'?",
+      "options": ["Personal", "Reflexive", "Demonstrative", "Relative"],
+      "correct": 1
+    },
+    {
+      "question": "The opposite of 'optimistic' is:",
+      "options": ["Happy", "Pessimistic", "Realistic", "Energetic"],
+      "correct": 1
+    },
+    {
+      "question": "In reported speech, 'He said, I am tired' becomes:",
+      "options": ["He said he is tired", "He said he was tired", "He says he is tired", "He said I am tired"],
+      "correct": 1
+    },
+    {
+      "question": "What is a collective noun for a group of lions?",
+      "options": ["Pack", "Herd", "Pride", "Flock"],
+      "correct": 2
+    },
+    {
+      "question": "Choose the correct article: '_____ honest man is respected'",
+      "options": ["A", "An", "The", "No article"],
+      "correct": 1
+    },
+    {
+      "question": "What literary device is used in: 'Peter Piper picked a peck of pickled peppers'?",
+      "options": ["Alliteration", "Assonance", "Metaphor", "Simile"],
+      "correct": 0
+    },
+    {
+      "question": "The word 'benevolent' means:",
+      "options": ["Evil", "Kind and generous", "Angry", "Lazy"],
+      "correct": 1
+    },
+    {
+      "question": "Choose the correct preposition: 'He is good _____ mathematics'",
+      "options": ["in", "at", "on", "with"],
+      "correct": 1
+    },
+    {
+      "question": "What is the comparative form of 'bad'?",
+      "options": ["Badder", "Worse", "Baddest", "More bad"],
+      "correct": 1
+    },
+    {
+      "question": "Identify the conjunction: 'I will go if you come with me'",
+      "options": ["I", "will", "if", "with"],
+      "correct": 2
+    },
+    {
+      "question": "The phrase 'once in a blue moon' means:",
+      "options": ["Every day", "Very rarely", "At night", "During full moon"],
+      "correct": 1
+    },
+    {
+      "question": "What is the active voice of: 'The cake was eaten by John'?",
+      "options": ["John eats the cake", "John ate the cake", "John is eating the cake", "The cake ate John"],
+      "correct": 1
+    },
+    {
+      "question": "Choose the word with the correct prefix: '___responsible'",
+      "options": ["un", "ir", "in", "dis"],
+      "correct": 1
+    },
+    {
+      "question": "What is the superlative form of 'beautiful'?",
+      "options": ["Beautifuler", "More beautiful", "Most beautiful", "Beautifulest"],
+      "correct": 2
+    },
+    {
+      "question": "The word 'ubiquitous' means:",
+      "options": ["Rare", "Present everywhere", "Ancient", "Modern"],
+      "correct": 1
+    },
+    {
+      "question": "Identify the gerund: 'Swimming is good exercise'",
+      "options": ["is", "good", "Swimming", "exercise"],
+      "correct": 2
+    },
+    {
+      "question": "What is the past tense of 'teach'?",
+      "options": ["Teached", "Taught", "Teaching", "Teaches"],
+      "correct": 1
+    },
+    {
+      "question": "Choose the correct option: 'Neither of the boys _____ present'",
+      "options": ["are", "were", "is", "be"],
+      "correct": 2
+    },
+    {
+      "question": "The word 'eloquent' is related to:",
+      "options": ["Speaking well", "Writing fast", "Reading slowly", "Listening carefully"],
+      "correct": 0
+    },
+    {
+      "question": "What is a synonym for 'diligent'?",
+      "options": ["Lazy", "Hardworking", "Slow", "Careless"],
+      "correct": 1
+    },
+    {
+      "question": "In the sentence 'The quick brown fox jumps', what is the verb?",
+      "options": ["quick", "brown", "fox", "jumps"],
+      "correct": 3
+    },
+    {
+      "question": "Choose the correct spelling:",
+      "options": ["Occassion", "Occasion", "Ocassion", "Ocasion"],
+      "correct": 1
+    },
+    {
+      "question": "What does 'procrastinate' mean?",
+      "options": ["To hurry", "To delay", "To finish early", "To plan"],
+      "correct": 1
+    },
+    {
+      "question": "The plural of 'child' is:",
+      "options": ["Childs", "Children", "Childrens", "Childer"],
+      "correct": 1
+    }
+  ],
+  "mathematics": [
+    {
+      "question": "Simplify: 3x + 5x - 2x",
+      "options": ["6x", "8x", "10x", "4x"],
+      "correct": 0
+    },
+    {
+      "question": "What is 15% of 200?",
+      "options": ["30", "25", "35", "20"],
+      "correct": 0
+    },
+    {
+      "question": "Solve for x: 2x + 5 = 15",
+      "options": ["5", "10", "7", "8"],
+      "correct": 0
+    },
+    {
+      "question": "What is the value of √144?",
+      "options": ["11", "12", "13", "14"],
+      "correct": 1
+    },
+    {
+      "question": "If a = 3 and b = 4, what is a² + b²?",
+      "options": ["25", "24", "49", "12"],
+      "correct": 0
+    },
+    {
+      "question": "What is the area of a rectangle with length 8cm and width 5cm?",
+      "options": ["40 cm²", "13 cm²", "26 cm²", "32 cm²"],
+      "correct": 0
+    },
+    {
+      "question": "Simplify: (x + 3)(x + 2)",
+      "options": ["x² + 5x + 6", "x² + 6x + 5", "x² + 3x + 2", "x² + 2x + 3"],
+      "correct": 0
+    },
+    {
+      "question": "What is the next number in the sequence: 2, 4, 8, 16, ___?",
+      "options": ["20", "24", "32", "30"],
+      "correct": 2
+    },
+    {
+      "question": "If 3x = 21, what is x?",
+      "options": ["6", "7", "8", "9"],
+      "correct": 1
+    },
+    {
+      "question": "What is 2³?",
+      "options": ["6", "8", "9", "12"],
+      "correct": 1
+    },
+    {
+      "question": "The sum of angles in a triangle is:",
+      "options": ["90°", "180°", "270°", "360°"],
+      "correct": 1
+    },
+    {
+      "question": "What is the circumference of a circle with radius 7cm? (Use π = 22/7)",
+      "options": ["44 cm", "22 cm", "14 cm", "28 cm"],
+      "correct": 0
+    },
+    {
+      "question": "Simplify: 5(x - 2) + 3x",
+      "options": ["8x - 10", "8x - 2", "5x - 10", "8x + 10"],
+      "correct": 0
+    },
+    {
+      "question": "If y = 2x + 3 and x = 4, what is y?",
+      "options": ["11", "10", "9", "8"],
+      "correct": 0
+    },
+    {
+      "question": "What is the LCM of 6 and 8?",
+      "options": ["24", "48", "12", "16"],
+      "correct": 0
+    },
+    {
+      "question": "Convert 0.75 to a fraction:",
+      "options": ["3/4", "1/4", "2/3", "1/2"],
+      "correct": 0
+    },
+    {
+      "question": "What is 30% of 150?",
+      "options": ["45", "50", "40", "35"],
+      "correct": 0
+    },
+    {
+      "question": "Solve: x² = 64",
+      "options": ["±8", "8", "-8", "16"],
+      "correct": 0
+    },
+    {
+      "question": "What is the slope of the line y = 3x + 2?",
+      "options": ["3", "2", "5", "1"],
+      "correct": 0
+    },
+    {
+      "question": "If log₁₀100 = x, what is x?",
+      "options": ["2", "10", "100", "1"],
+      "correct": 0
+    },
+    {
+      "question": "What is the volume of a cube with side 3cm?",
+      "options": ["27 cm³", "9 cm³", "18 cm³", "24 cm³"],
+      "correct": 0
+    },
+    {
+      "question": "Simplify: (2x²y³)²",
+      "options": ["4x⁴y⁶", "2x⁴y⁶", "4x²y³", "4x⁴y³"],
+      "correct": 0
+    },
+    {
+      "question": "What is the value of sin 30°?",
+      "options": ["1/2", "√3/2", "1", "0"],
+      "correct": 0
+    },
+    {
+      "question": "If f(x) = 2x - 5, what is f(3)?",
+      "options": ["1", "2", "3", "4"],
+      "correct": 0
+    },
+    {
+      "question": "What is the HCF of 24 and 36?",
+      "options": ["12", "6", "24", "36"],
+      "correct": 0
+    },
+    {
+      "question": "Express 2.5 as a percentage:",
+      "options": ["250%", "25%", "2.5%", "0.25%"],
+      "correct": 0
+    },
+    {
+      "question": "What is the gradient of a line passing through (2,3) and (4,7)?",
+      "options": ["2", "1", "3", "4"],
+      "correct": 0
+    },
+    {
+      "question": "Simplify: √(25/9)",
+      "options": ["5/3", "3/5", "25/9", "5/9"],
+      "correct": 0
+    },
+    {
+      "question": "If a:b = 2:3 and b:c = 4:5, what is a:c?",
+      "options": ["8:15", "2:5", "3:5", "4:15"],
+      "correct": 0
+    },
+    {
+      "question": "What is the median of: 3, 7, 5, 9, 1?",
+      "options": ["5", "7", "3", "9"],
+      "correct": 0
+    },
+    {
+      "question": "Solve: 2(x - 3) = 10",
+      "options": ["8", "7", "6", "5"],
+      "correct": 0
+    },
+    {
+      "question": "What is the area of a circle with diameter 14cm? (Use π = 22/7)",
+      "options": ["154 cm²", "308 cm²", "44 cm²", "88 cm²"],
+      "correct": 0
+    },
+    {
+      "question": "If 5x - 3 = 2x + 9, what is x?",
+      "options": ["4", "3", "5", "6"],
+      "correct": 0
+    },
+    {
+      "question": "What is the mode of: 2, 3, 3, 4, 5, 3, 6?",
+      "options": ["3", "4", "2", "5"],
+      "correct": 0
+    },
+    {
+      "question": "Simplify: (x³)⁴",
+      "options": ["x¹²", "x⁷", "x⁶⁴", "4x³"],
+      "correct": 0
+    },
+    {
+      "question": "What is 5! (5 factorial)?",
+      "options": ["120", "60", "24", "100"],
+      "correct": 0
+    },
+    {
+      "question": "If cos θ = 0.5, what is θ (in degrees)?",
+      "options": ["60°", "30°", "45°", "90°"],
+      "correct": 0
+    },
+    {
+      "question": "What is the sum of the first 10 natural numbers?",
+      "options": ["55", "45", "50", "60"],
+      "correct": 0
+    },
+    {
+      "question": "Simplify: (a + b)² - (a - b)²",
+      "options": ["4ab", "2ab", "a² + b²", "0"],
+      "correct": 0
+    },
+    {
+      "question": "What is the value of π (approximately)?",
+      "options": ["3.14", "2.14", "4.14", "3.41"],
+      "correct": 0
+    }
+  ],
+  "physics": [
+    {
+      "question": "What is the SI unit of force?",
+      "options": ["Joule", "Newton", "Watt", "Pascal"],
+      "correct": 1
+    },
+    {
+      "question": "What is the acceleration due to gravity on Earth?",
+      "options": ["9.8 m/s²", "10 m/s²", "8.9 m/s²", "11 m/s²"],
+      "correct": 0
+    },
+    {
+      "question": "Which of the following is a vector quantity?",
+      "options": ["Speed", "Distance", "Velocity", "Time"],
+      "correct": 2
+    },
+    {
+      "question": "What is Ohm's law?",
+      "options": ["V = IR", "I = V/R", "R = V/I", "All of the above"],
+      "correct": 3
+    },
+    {
+      "question": "The speed of light in vacuum is approximately:",
+      "options": ["3 × 10⁸ m/s", "3 × 10⁶ m/s", "3 × 10¹⁰ m/s", "3 × 10⁷ m/s"],
+      "correct": 0
+    },
+    {
+      "question": "What is the formula for kinetic energy?",
+      "options": ["½mv²", "mgh", "mv", "m/v"],
+      "correct": 0
+    },
+    {
+      "question": "Which law states that every action has an equal and opposite reaction?",
+      "options": ["Newton's First Law", "Newton's Second Law", "Newton's Third Law", "Law of Conservation"],
+      "correct": 2
+    },
+    {
+      "question": "What is the SI unit of electric current?",
+      "options": ["Volt", "Ampere", "Ohm", "Coulomb"],
+      "correct": 1
+    },
+    {
+      "question": "The phenomenon of bending of light is called:",
+      "options": ["Reflection", "Refraction", "Diffraction", "Dispersion"],
+      "correct": 1
+    },
+    {
+      "question": "What is the frequency of a wave with wavelength 2m and speed 10m/s?",
+      "options": ["5 Hz", "20 Hz", "2 Hz", "10 Hz"],
+      "correct": 0
+    },
+    {
+      "question": "Which of these is a renewable energy source?",
+      "options": ["Coal", "Petroleum", "Solar", "Natural gas"],
+      "correct": 2
+    },
+    {
+      "question": "The SI unit of work is:",
+      "options": ["Newton", "Joule", "Watt", "Pascal"],
+      "correct": 1
+    },
+    {
+      "question": "What type of lens is used to correct myopia?",
+      "options": ["Convex lens", "Concave lens", "Cylindrical lens", "Bifocal lens"],
+      "correct": 1
+    },
+    {
+      "question": "The resistance of a conductor depends on:",
+      "options": ["Length only", "Area only", "Material only", "All of the above"],
+      "correct": 3
+    },
+    {
+      "question": "What is the principle of conservation of energy?",
+      "options": ["Energy can be created", "Energy can be destroyed", "Energy can neither be created nor destroyed", "Energy is constant"],
+      "correct": 2
+    },
+    {
+      "question": "The unit of power is:",
+      "options": ["Joule", "Watt", "Newton", "Ampere"],
+      "correct": 1
+    },
+    {
+      "question": "Which color of light has the longest wavelength?",
+      "options": ["Violet", "Blue", "Green", "Red"],
+      "correct": 3
+    },
+    {
+      "question": "The formula for potential energy is:",
+      "options": ["½mv²", "mgh", "mv", "F × d"],
+      "correct": 1
+    },
+    {
+      "question": "What is the charge on an electron?",
+      "options": ["1.6 × 10⁻¹⁹ C", "-1.6 × 10⁻¹⁹ C", "1.6 × 10¹⁹ C", "0 C"],
+      "correct": 1
+    },
+    {
+      "question": "The SI unit of pressure is:",
+      "options": ["Newton", "Joule", "Pascal", "Watt"],
+      "correct": 2
+    },
+    {
+      "question": "What happens to the resistance when the length of a wire is doubled?",
+      "options": ["Halved", "Doubled", "Quadrupled", "Remains same"],
+      "correct": 1
+    },
+    {
+      "question": "The north pole of a magnet attracts:",
+      "options": ["North pole", "South pole", "Both poles", "Neither pole"],
+      "correct": 1
+    },
+    {
+      "question": "What is the relationship between frequency and wavelength?",
+      "options": ["Directly proportional", "Inversely proportional", "No relation", "Exponential"],
+      "correct": 1
+    },
+    {
+      "question": "The SI unit of temperature is:",
+      "options": ["Celsius", "Fahrenheit", "Kelvin", "Rankine"],
+      "correct": 2
+    },
+    {
+      "question": "What is the acceleration of a freely falling body?",
+      "options": ["Zero", "9.8 m/s²", "Constant velocity", "Variable"],
+      "correct": 1
+    },
+    {
+      "question": "The image formed by a plane mirror is:",
+      "options": ["Real and inverted", "Virtual and erect", "Real and erect", "Virtual and inverted"],
+      "correct": 1
+    },
+    {
+      "question": "Which is an example of a scalar quantity?",
+      "options": ["Force", "Displacement", "Velocity", "Mass"],
+      "correct": 3
+    },
+    {
+      "question": "The boiling point of water at standard pressure is:",
+      "options": ["100°C", "0°C", "273 K", "373°C"],
+      "correct": 0
+    },
+    {
+      "question": "What is the momentum of an object?",
+      "options": ["m × v", "m/v", "m + v", "v/m"],
+      "correct": 0
+    },
+    {
+      "question": "The energy stored in a stretched spring is:",
+      "options": ["Kinetic energy", "Potential energy", "Heat energy", "Sound energy"],
+      "correct": 1
+    },
+    {
+      "question": "What is the angle of incidence equal to in a plane mirror?",
+      "options": ["Angle of reflection", "90°", "45°", "Twice the angle of reflection"],
+      "correct": 0
+    },
+    {
+      "question": "The SI unit of frequency is:",
+      "options": ["Second", "Meter", "Hertz", "Watt"],
+      "correct": 2
+    },
+    {
+      "question": "What type of current flows in a battery?",
+      "options": ["AC", "DC", "Both", "Neither"],
+      "correct": 1
+    },
+    {
+      "question": "The critical angle depends on:",
+      "options": ["Refractive index", "Wavelength only", "Amplitude", "Frequency only"],
+      "correct": 0
+    },
+    {
+      "question": "What is the unit of magnetic flux?",
+      "options": ["Tesla", "Weber", "Gauss", "Ampere"],
+      "correct": 1
+    },
+    {
+      "question": "The efficiency of a machine is always:",
+      "options": ["100%", "Less than 100%", "More than 100%", "Zero"],
+      "correct": 1
+    },
+    {
+      "question": "What happens to the wavelength when frequency increases?",
+      "options": ["Increases", "Decreases", "Remains same", "Doubles"],
+      "correct": 1
+    },
+    {
+      "question": "The focal length of a convex lens is:",
+      "options": ["Negative", "Positive", "Zero", "Infinite"],
+      "correct": 1
+    },
+    {
+      "question": "What is the specific heat capacity of water?",
+      "options": ["4200 J/kg°C", "2100 J/kg°C", "8400 J/kg°C", "1000 J/kg°C"],
+      "correct": 0
+    },
+    {
+      "question": "The law of conservation of momentum states:",
+      "options": ["Momentum is always zero", "Total momentum before = Total momentum after", "Momentum increases", "Momentum decreases"],
+      "correct": 1
+    }
+  ],
+  "chemistry": [
+    {
+      "question": "What is the atomic number of Carbon?",
+      "options": ["4", "6", "8", "12"],
+      "correct": 1
+    },
+    {
+      "question": "What is the chemical formula for water?",
+      "options": ["H₂O", "H₂O₂", "HO₂", "H₃O"],
+      "correct": 0
+    },
+    {
+      "question": "Which of these is a noble gas?",
+      "options": ["Oxygen", "Nitrogen", "Helium", "Hydrogen"],
+      "correct": 2
+    },
+    {
+      "question": "What is the pH of a neutral solution?",
+      "options": ["0", "7", "14", "10"],
+      "correct": 1
+    },
+    {
+      "question": "The process of a solid changing directly to gas is called:",
+      "options": ["Melting", "Evaporation", "Sublimation", "Condensation"],
+      "correct": 2
+    },
+    {
+      "question": "What is the valency of oxygen?",
+      "options": ["1", "2", "3", "4"],
+      "correct": 1
+    },
+    {
+      "question": "Which element has the symbol 'Na'?",
+      "options": ["Nitrogen", "Sodium", "Nickel", "Neon"],
+      "correct": 1
+    },
+    {
+      "question": "What type of bond exists in NaCl?",
+      "options": ["Covalent", "Ionic", "Metallic", "Hydrogen"],
+      "correct": 1
+    },
+    {
+      "question": "The molecular mass of H₂O is:",
+      "options": ["16", "18", "20", "22"],
+      "correct": 1
+    },
+    {
+      "question": "Which gas is produced when metals react with acids?",
+      "options": ["Oxygen", "Hydrogen", "Nitrogen", "Carbon dioxide"],
+      "correct": 1
+    },
+    {
+      "question": "What is the chemical formula for common salt?",
+      "options": ["KCl", "NaCl", "CaCl₂", "MgCl₂"],
+      "correct": 1
+    },
+    {
+      "question": "An acid turns blue litmus paper:",
+      "options": ["Blue", "Red", "Green", "Yellow"],
+      "correct": 1
+    },
+    {
+      "question": "What is the main component of natural gas?",
+      "options": ["Ethane", "Propane", "Methane", "Butane"],
+      "correct": 2
+    },
+    {
+      "question": "The number of electrons in a neutral atom equals:",
+      "options": ["Neutrons", "Protons", "Atomic mass", "Mass number"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these is an exothermic reaction?",
+      "options": ["Photosynthesis", "Combustion", "Melting", "Evaporation"],
+      "correct": 1
+    },
+    {
+      "question": "The catalyst used in Haber's process is:",
+      "options": ["Platinum", "Iron", "Nickel", "Vanadium"],
+      "correct": 1
+    },
+    {
+      "question": "What is the chemical formula for sulphuric acid?",
+      "options": ["H₂SO₃", "H₂SO₄", "HSO₄", "H₃SO₄"],
+      "correct": 1
+    },
+    {
+      "question": "Which metal is liquid at room temperature?",
+      "options": ["Sodium", "Mercury", "Copper", "Iron"],
+      "correct": 1
+    },
+    {
+      "question": "The process of rusting is an example of:",
+      "options": ["Reduction", "Oxidation", "Neutralization", "Sublimation"],
+      "correct": 1
+    },
+    {
+      "question": "What is the electronic configuration of Sodium (Na, Z=11)?",
+      "options": ["2, 8, 1", "2, 8, 2", "2, 7, 2", "2, 8, 3"],
+      "correct": 0
+    },
+    {
+      "question": "Which gas is responsible for the greenhouse effect?",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+      "correct": 2
+    },
+    {
+      "question": "The empirical formula of glucose is:",
+      "options": ["CH₂O", "C₆H₁₂O₆", "CHO", "C₂H₄O₂"],
+      "correct": 0
+    },
+    {
+      "question": "What is the charge on a proton?",
+      "options": ["+1", "-1", "0", "+2"],
+      "correct": 0
+    },
+    {
+      "question": "The most abundant element in Earth's crust is:",
+      "options": ["Silicon", "Oxygen", "Iron", "Aluminum"],
+      "correct": 1
+    },
+    {
+      "question": "Which of these is a weak acid?",
+      "options": ["HCl", "H₂SO₄", "CH₃COOH", "HNO₃"],
+      "correct": 2
+    },
+    {
+      "question": "The formula for calculating moles is:",
+      "options": ["Mass/Molar mass", "Mass × Molar mass", "Volume/22.4", "Mass + Molar mass"],
+      "correct": 0
+    },
+    {
+      "question": "What is the oxidation state of Cl in HCl?",
+      "options": ["+1", "-1", "0", "+2"],
+      "correct": 1
+    },
+    {
+      "question": "Which metal is most reactive?",
+      "options": ["Copper", "Silver", "Potassium", "Iron"],
+      "correct": 2
+    },
+    {
+      "question": "The formula for ammonia is:",
+      "options": ["NH₃", "NH₄", "N₂H₄", "NH₂"],
+      "correct": 0
+    },
+    {
+      "question": "What is the mass number of an atom?",
+      "options": ["Protons only", "Electrons only", "Protons + Neutrons", "Neutrons only"],
+      "correct": 2
+    },
+    {
+      "question": "Which element is essential for combustion?",
+      "options": ["Nitrogen", "Oxygen", "Hydrogen", "Carbon"],
+      "correct": 1
+    },
+    {
+      "question": "The organic compound with the functional group -OH is:",
+      "options": ["Alkane", "Alkene", "Alcohol", "Ether"],
+      "correct": 2
+    },
+    {
+      "question": "What is Avogadro's number?",
+      "options": ["6.02 × 10²³", "6.02 × 10²²", "3.14 × 10²³", "1.6 × 10¹⁹"],
+      "correct": 0
+    },
+    {
+      "question": "Which gas turns lime water milky?",
+      "options": ["Oxygen", "Hydrogen", "Carbon dioxide", "Nitrogen"],
+      "correct": 2
+    },
+    {
+      "question": "The general formula for alkanes is:",
+      "options": ["CₙH₂ₙ", "CₙH₂ₙ₊₂", "CₙH₂ₙ₋₂", "CₙHₙ"],
+      "correct": 1
+    },
+    {
+      "question": "A base reacts with an acid to form:",
+      "options": ["Salt only", "Water only", "Salt and water", "Gas"],
+      "correct": 2
+    },
+    {
+      "question": "What is the standard temperature and pressure (STP)?",
+      "options": ["0°C and 1 atm", "25°C and 1 atm", "100°C and 1 atm", "0°C and 2 atm"],
+      "correct": 0
+    },
+    {
+      "question": "Which of these is an allotrope of carbon?",
+      "options": ["Ozone", "Diamond", "Rust", "Salt"],
+      "correct": 1
+    },
+    {
+      "question": "The process of separating a liquid from a solid by heating is:",
+      "options": ["Filtration", "Distillation", "Evaporation", "Crystallization"],
+      "correct": 1
+    },
+    {
+      "question": "What is the oxidation number of an element in its free state?",
+      "options": ["0", "+1", "-1", "+2"],
+      "correct": 0
+    }
+  ],
+  "biology": [
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Mitochondria", "Ribosome", "Chloroplast"],
+      "correct": 1
+    },
+    {
+      "question": "Which blood group is the universal donor?",
+      "options": ["A", "B", "AB", "O"],
+      "correct": 3
+    },
+    {
+      "question": "Photosynthesis occurs in which organelle?",
+      "options": ["Mitochondria", "Chloroplast", "Nucleus", "Ribosome"],
+      "correct": 1
+    },
+    {
+      "question": "What is the basic unit of life?",
+      "options": ["Tissue", "Organ", "Cell", "Organism"],
+      "correct": 2
+    },
+    {
+      "question": "Which enzyme is present in saliva?",
+      "options": ["Pepsin", "Amylase", "Lipase", "Trypsin"],
+      "correct": 1
+    },
+    {
+      "question": "The process by which plants lose water is called:",
+      "options": ["Respiration", "Photosynthesis", "Transpiration", "Osmosis"],
+      "correct": 2
+    },
+    {
+      "question": "What is the function of red blood cells?",
+      "options": ["Fight infection", "Transport oxygen", "Clot blood", "Produce antibodies"],
+      "correct": 1
+    },
+    {
+      "question": "DNA stands for:",
+      "options": ["Deoxyribonucleic Acid", "Diribonucleic Acid", "Deoxyribose Acid", "Diribose Nucleic Acid"],
+      "correct": 0
+    },
+    {
+      "question": "Which vitamin is produced when skin is exposed to sunlight?",
+      "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+      "correct": 2
+    },
+    {
+      "question": "The human body has how many chromosomes?",
+      "options": ["23", "46", "48", "92"],
+      "correct": 1
+    },
+    {
+      "question": "Which organ produces insulin?",
+      "options": ["Liver", "Kidney", "Pancreas", "Spleen"],
+      "correct": 2
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "options": ["Liver", "Brain", "Skin", "Heart"],
+      "correct": 2
+    },
+    {
+      "question": "The green pigment in plants is called:",
+      "options": ["Carotene", "Chlorophyll", "Xanthophyll", "Anthocyanin"],
+      "correct": 1
+    },
+    {
+      "question": "Which part of the brain controls balance?",
+      "options": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"],
+      "correct": 1
+    },
+    {
+      "question": "What is the normal body temperature in Celsius?",
+      "options": ["35°C", "36°C", "37°C", "38°C"],
+      "correct": 2
+    },
+    {
+      "question": "Which blood vessels carry blood away from the heart?",
+      "options": ["Veins", "Arteries", "Capillaries", "Venules"],
+      "correct": 1
+    },
+    {
+      "question": "The scientific study of heredity is called:",
+      "options": ["Ecology", "Genetics", "Anatomy", "Physiology"],
+      "correct": 1
+    },
+    {
+      "question": "What is the male reproductive cell called?",
+      "options": ["Ovum", "Sperm", "Zygote", "Gamete"],
+      "correct": 1
+    },
+    {
+      "question": "Which gas do plants take in during photosynthesis?",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+      "correct": 2
+    },
+    {
+      "question": "The process of cell division is called:",
+      "options": ["Mitosis", "Osmosis", "Diffusion", "Photosynthesis"],
+      "correct": 0
+    },
+    {
+      "question": "Which vitamin is essential for blood clotting?",
+      "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+      "correct": 3
+    },
+    {
+      "question": "The smallest bone in the human body is located in the:",
+      "options": ["Finger", "Toe", "Ear", "Nose"],
+      "correct": 2
+    },
+    {
+      "question": "What is the main function of white blood cells?",
+      "options": ["Transport oxygen", "Fight infection", "Clot blood", "Carry nutrients"],
+      "correct": 1
+    },
+    {
+      "question": "The exchange of gases in the lungs occurs in:",
+      "options": ["Bronchi", "Trachea", "Alveoli", "Bronchioles"],
+      "correct": 2
+    },
+    {
+      "question": "Which type of nutrition do fungi have?",
+      "options": ["Autotrophic", "Saprophytic", "Parasitic", "Both B and C"],
+      "correct": 3
+    },
+    {
+      "question": "The functional unit of the kidney is:",
+      "options": ["Neuron", "Nephron", "Alveolus", "Villus"],
+      "correct": 1
+    },
+    {
+      "question": "What is the gestation period of humans?",
+      "options": ["7 months", "8 months", "9 months", "10 months"],
+      "correct": 2
+    },
+    {
+      "question": "Which hormone regulates blood sugar?",
+      "options": ["Insulin", "Thyroxine", "Adrenaline", "Estrogen"],
+      "correct": 0
+    },
+    {
+      "question": "The theory of evolution was proposed by:",
+      "options": ["Mendel", "Darwin", "Lamarck", "Watson"],
+      "correct": 1
+    },
+    {
+      "question": "What is the pH of blood?",
+      "options": ["6.4", "7.0", "7.4", "8.0"],
+      "correct": 2
+    },
+    {
+      "question": "Which phylum do humans belong to?",
+      "options": ["Arthropoda", "Chordata", "Mollusca", "Annelida"],
+      "correct": 1
+    },
+    {
+      "question": "The movement of water across a semi-permeable membrane is:",
+      "options": ["Diffusion", "Osmosis", "Active transport", "Filtration"],
+      "correct": 1
+    },
+    {
+      "question": "Which part of the eye controls the amount of light entering?",
+      "options": ["Cornea", "Lens", "Pupil", "Retina"],
+      "correct": 2
+    },
+    {
+      "question": "What is the end product of protein digestion?",
+      "options": ["Fatty acids", "Glucose", "Amino acids", "Glycerol"],
+      "correct": 2
+    },
+    {
+      "question": "The liquid part of blood is called:",
+      "options": ["Serum", "Plasma", "Lymph", "Hemoglobin"],
+      "correct": 1
+    },
+    {
+      "question": "Which disease is caused by vitamin C deficiency?",
+      "options": ["Rickets", "Scurvy", "Beriberi", "Night blindness"],
+      "correct": 1
+    },
+    {
+      "question": "The genetic makeup of an organism is called:",
+      "options": ["Phenotype", "Genotype", "Chromosome", "Allele"],
+      "correct": 1
+    },
+    {
+      "question": "What is the function of the large intestine?",
+      "options": ["Digest food", "Absorb water", "Produce enzymes", "Store bile"],
+      "correct": 1
+    },
+    {
+      "question": "Which organism causes malaria?",
+      "options": ["Virus", "Bacteria", "Protozoa", "Fungus"],
+      "correct": 2
+    },
+    {
+      "question": "The study of fossils is called:",
+      "options": ["Paleontology", "Archaeology", "Geology", "Anthropology"],
+      "correct": 0
+    }
+  ],
+  "economics": [
+    {
+      "question": "What is the basic economic problem?",
+      "options": ["Inflation", "Scarcity", "Unemployment", "Poverty"],
+      "correct": 1
+    },
+    {
+      "question": "The law of demand states that as price increases:",
+      "options": ["Demand increases", "Demand decreases", "Demand remains constant", "Supply increases"],
+      "correct": 1
+    },
+    {
+      "question": "What is inflation?",
+      "options": ["Increase in price level", "Decrease in price level", "Constant prices", "No change in economy"],
+      "correct": 0
+    },
+    {
+      "question": "GDP stands for:",
+      "options": ["Gross Domestic Product", "General Domestic Product", "Gross Development Product", "Global Domestic Product"],
+      "correct": 0
+    },
+    {
+      "question": "Which is a factor of production?",
+      "options": ["Money", "Land", "Goods", "Services"],
+      "correct": 1
+    },
+    {
+      "question": "What is opportunity cost?",
+      "options": ["Cost of production", "Cost of next best alternative", "Total cost", "Fixed cost"],
+      "correct": 1
+    },
+    {
+      "question": "A market where there is only one seller is called:",
+      "options": ["Monopoly", "Oligopoly", "Perfect competition", "Monopsony"],
+      "correct": 0
+    },
+    {
+      "question": "What is the main function of commercial banks?",
+      "options": ["Print money", "Accept deposits", "Make laws", "Control inflation"],
+      "correct": 1
+    },
+    {
+      "question": "Elasticity of demand measures:",
+      "options": ["Change in supply", "Responsiveness of quantity demanded to price change", "Total revenue", "Production cost"],
+      "correct": 1
+    },
+    {
+      "question": "What is fiscal policy?",
+      "options": ["Control of money supply", "Government spending and taxation", "Interest rate control", "Exchange rate management"],
+      "correct": 1
+    },
+    {
+      "question": "The central bank of Nigeria is:",
+      "options": ["First Bank", "CBN", "UBA", "GTBank"],
+      "correct": 1
+    },
+    {
+      "question": "What is unemployment?",
+      "options": ["People not working", "People willing to work but can't find jobs", "People on holiday", "Retired people"],
+      "correct": 1
+    },
+    {
+      "question": "Division of labour means:",
+      "options": ["Sharing profits", "Specialization in production", "Union activities", "Working overtime"],
+      "correct": 1
+    },
+    {
+      "question": "What is balance of trade?",
+      "options": ["Exports minus imports", "Total trade", "Government budget", "National income"],
+      "correct": 0
+    },
+    {
+      "question": "Which is an indirect tax?",
+      "options": ["Income tax", "VAT", "Company tax", "Capital gains tax"],
+      "correct": 1
+    },
+    {
+      "question": "What determines the price in a free market?",
+      "options": ["Government", "Supply and demand", "Producers only", "Consumers only"],
+      "correct": 1
+    },
+    {
+      "question": "Inflation is measured by:",
+      "options": ["GDP", "Consumer Price Index", "Interest rate", "Exchange rate"],
+      "correct": 1
+    },
+    {
+      "question": "What is a budget deficit?",
+      "options": ["Revenue exceeds expenditure", "Expenditure exceeds revenue", "Balanced budget", "Zero spending"],
+      "correct": 1
+    },
+    {
+      "question": "Which is NOT a characteristic of money?",
+      "options": ["Durability", "Portability", "Perishability", "Divisibility"],
+      "correct": 2
+    },
+    {
+      "question": "What is devaluation?",
+      "options": ["Increase in currency value", "Decrease in currency value", "Constant currency value", "No change"],
+      "correct": 1
+    },
+    {
+      "question": "The law of diminishing returns states that:",
+      "options": ["Output always increases", "Additional input leads to less additional output", "Output is constant", "Input decreases"],
+      "correct": 1
+    },
+    {
+      "question": "What is a public good?",
+      "options": ["Good sold by government", "Non-excludable and non-rivalrous good", "Expensive good", "Luxury good"],
+      "correct": 1
+    },
+    {
+      "question": "Price elasticity of demand is calculated as:",
+      "options": ["% change in quantity / % change in price", "Price / Quantity", "Quantity / Price", "Total revenue / Price"],
+      "correct": 0
+    },
+    {
+      "question": "What is subsidy?",
+      "options": ["Tax on goods", "Government payment to producers", "Consumer payment", "Import duty"],
+      "correct": 1
+    },
+    {
+      "question": "The main objective of a firm is to:",
+      "options": ["Maximize profit", "Maximize output", "Minimize cost only", "Employ more workers"],
+      "correct": 0
+    },
+    {
+      "question": "What is comparative advantage?",
+      "options": ["Producing at lower cost", "Producing at lower opportunity cost", "Producing more", "Producing faster"],
+      "correct": 1
+    },
+    {
+      "question": "Which is a merit good?",
+      "options": ["Cigarettes", "Education", "Alcohol", "Gambling"],
+      "correct": 1
+    },
+    {
+      "question": "What is monetary policy?",
+      "options": ["Government spending", "Control of money supply and interest rates", "Tax policy", "Trade policy"],
+      "correct": 1
+    },
+    {
+      "question": "Perfect competition is characterized by:",
+      "options": ["One seller", "Few sellers", "Many sellers", "No sellers"],
+      "correct": 2
+    },
+    {
+      "question": "What is exchange rate?",
+      "options": ["Interest rate", "Price of one currency in terms of another", "Inflation rate", "Tax rate"],
+      "correct": 1
+    },
+    {
+      "question": "What is demand?",
+      "options": ["Willingness to buy", "Ability to buy", "Willingness and ability to buy", "Need only"],
+      "correct": 2
+    },
+    {
+      "question": "The production possibility curve shows:",
+      "options": ["Maximum production levels", "Minimum production", "Zero production", "Negative production"],
+      "correct": 0
+    },
+    {
+      "question": "What is a tariff?",
+      "options": ["Export subsidy", "Import tax", "Income tax", "Sales tax"],
+      "correct": 1
+    },
+    {
+      "question": "Economic growth is measured by:",
+      "options": ["Increase in GDP", "Increase in population", "Increase in imports", "Increase in taxes"],
+      "correct": 0
+    },
+    {
+      "question": "What is equilibrium price?",
+      "options": ["Highest price", "Lowest price", "Price where demand equals supply", "Government set price"],
+      "correct": 2
+    },
+    {
+      "question": "A progressive tax means:",
+      "options": ["Same rate for all", "Higher rate for higher income", "Lower rate for higher income", "No tax"],
+      "correct": 1
+    },
+    {
+      "question": "What is money supply?",
+      "options": ["Bank deposits only", "Cash only", "Total amount of money in circulation", "Government reserves"],
+      "correct": 2
+    },
+    {
+      "question": "The price mechanism allocates resources through:",
+      "options": ["Government planning", "Supply and demand forces", "Fixed prices", "Rationing"],
+      "correct": 1
+    },
+    {
+      "question": "What is gross profit?",
+      "options": ["Total revenue - Total cost", "Sales - Cost of goods sold", "Net profit + expenses", "Sales only"],
+      "correct": 1
+    },
+    {
+      "question": "Economies of scale refer to:",
+      "options": ["Decreasing costs with increased output", "Increasing costs", "Constant costs", "Zero costs"],
+      "correct": 0
+    }
+  ],
+  "commerce": [
+    {
+      "question": "What is commerce?",
+      "options": ["Production only", "Distribution and exchange of goods", "Consumption only", "Storage only"],
+      "correct": 1
+    },
+    {
+      "question": "A wholesaler is a trader who:",
+      "options": ["Sells to consumers", "Buys in bulk and sells to retailers", "Produces goods", "Exports goods"],
+      "correct": 1
+    },
+    {
+      "question": "What is a cheque?",
+      "options": ["Paper money", "Written order to bank to pay", "Credit card", "Loan"],
+      "correct": 1
+    },
+    {
+      "question": "The main function of an entrepreneur is:",
+      "options": ["Work for salary", "Bear business risks", "Keep accounts", "Sell goods"],
+      "correct": 1
+    },
+    {
+      "question": "What is insurance?",
+      "options": ["Saving money", "Protection against risk", "Investment", "Loan"],
+      "correct": 1
+    },
+    {
+      "question": "A partnership must have a minimum of:",
+      "options": ["1 partner", "2 partners", "5 partners", "10 partners"],
+      "correct": 1
+    },
+    {
+      "question": "What is a bill of exchange?",
+      "options": ["Receipt", "Written order to pay", "Invoice", "Cheque"],
+      "correct": 1
+    },
+    {
+      "question": "The stock exchange deals in:",
+      "options": ["Goods", "Shares and securities", "Raw materials", "Consumer goods"],
+      "correct": 1
+    },
+    {
+      "question": "What is e-commerce?",
+      "options": ["Traditional trading", "Electronic commerce", "Export trade", "Wholesale trade"],
+      "correct": 1
+    },
+    {
+      "question": "A limited liability company means:",
+      "options": ["Unlimited liability", "Liability limited to shares", "No liability", "Government liability"],
+      "correct": 1
+    },
+    {
+      "question": "What is a promissory note?",
+      "options": ["Promise to deliver goods", "Written promise to pay", "Invoice", "Receipt"],
+      "correct": 1
+    },
+    {
+      "question": "The main function of a retailer is to:",
+      "options": ["Produce goods", "Sell to final consumers", "Export goods", "Manufacture products"],
+      "correct": 1
+    },
+    {
+      "question": "What is branding?",
+      "options": ["Packaging", "Identifying products with names/symbols", "Pricing", "Distribution"],
+      "correct": 1
+    },
+    {
+      "question": "A public limited company can:",
+      "options": ["Sell shares to public", "Have only one owner", "Not sell shares", "Have unlimited partners"],
+      "correct": 0
+    },
+    {
+      "question": "What is a tariff?",
+      "options": ["Price list", "Tax on imports", "Discount", "Commission"],
+      "correct": 1
+    },
+    {
+      "question": "The acronym ATM stands for:",
+      "options": ["Automatic Teller Machine", "Automated Transaction Machine", "Automatic Transfer Machine", "Available Time Machine"],
+      "correct": 0
+    },
+    {
+      "question": "What is a cooperative society?",
+      "options": ["Private company", "Voluntary association for mutual benefit", "Government organization", "Sole proprietorship"],
+      "correct": 1
+    },
+    {
+      "question": "A proforma invoice is:",
+      "options": ["Final invoice", "Preliminary invoice", "Receipt", "Payment slip"],
+      "correct": 1
+    },
+    {
+      "question": "What is advertising?",
+      "options": ["Distribution", "Communication to persuade buyers", "Production", "Storage"],
+      "correct": 1
+    },
+    {
+      "question": "The main advantage of a sole proprietorship is:",
+      "options": ["Limited liability", "Easy to establish", "Large capital", "Many owners"],
+      "correct": 1
+    },
+    {
+      "question": "What is a quota?",
+      "options": ["Tax", "Limit on imports", "Subsidy", "Discount"],
+      "correct": 1
+    },
+    {
+      "question": "A memorandum of association contains:",
+      "options": ["Company rules", "Company objectives", "Profit statement", "Tax information"],
+      "correct": 1
+    },
+    {
+      "question": "What is a debenture?",
+      "options": ["Share", "Long-term loan certificate", "Short-term loan", "Dividend"],
+      "correct": 1
+    },
+    {
+      "question": "The main function of a commercial bank is:",
+      "options": ["Print money", "Accept deposits and lend", "Make laws", "Export goods"],
+      "correct": 1
+    },
+    {
+      "question": "What is trade credit?",
+      "options": ["Bank loan", "Buying goods on credit from supplier", "Consumer loan", "Mortgage"],
+      "correct": 1
+    },
+    {
+      "question": "A franchise is:",
+      "options": ["New business", "Right to use established business name/method", "Partnership", "Cooperative"],
+      "correct": 1
+    },
+    {
+      "question": "What is a letter of credit?",
+      "options": ["Job application", "Bank guarantee of payment", "Receipt", "Invoice"],
+      "correct": 1
+    },
+    {
+      "question": "The main purpose of packaging is to:",
+      "options": ["Increase price", "Protect and preserve products", "Reduce weight", "Change color"],
+      "correct": 1
+    },
+    {
+      "question": "What is a consignment note?",
+      "options": ["Invoice", "Document for goods in transit", "Receipt", "Cheque"],
+      "correct": 1
+    },
+    {
+      "question": "A current account is mainly for:",
+      "options": ["Savings", "Business transactions", "Fixed deposits", "Loans"],
+      "correct": 1
+    },
+    {
+      "question": "What is market segmentation?",
+      "options": ["Building markets", "Dividing market into groups", "Pricing strategy", "Distribution method"],
+      "correct": 1
+    },
+    {
+      "question": "An agent is someone who:",
+      "options": ["Owns goods", "Acts for principal", "Produces goods", "Consumes goods"],
+      "correct": 1
+    },
+    {
+      "question": "What is direct marketing?",
+      "options": ["Using intermediaries", "Selling directly to consumers", "Wholesale only", "Export only"],
+      "correct": 1
+    },
+    {
+      "question": "The main document in sea transport is:",
+      "options": ["Airway bill", "Bill of lading", "Invoice", "Receipt"],
+      "correct": 1
+    },
+    {
+      "question": "What is working capital?",
+      "options": ["Fixed assets", "Current assets - Current liabilities", "Total capital", "Share capital"],
+      "correct": 1
+    },
+    {
+      "question": "A warehouse is used for:",
+      "options": ["Production", "Storage", "Distribution only", "Consumption"],
+      "correct": 1
+    },
+    {
+      "question": "What is barter?",
+      "options": ["Modern trade", "Exchange of goods for goods", "Credit sale", "Cash sale"],
+      "correct": 1
+    },
+    {
+      "question": "The main function of ECOWAS is to:",
+      "options": ["Promote political unity only", "Promote trade and economic cooperation", "Create currency", "Build roads"],
+      "correct": 1
+    },
+    {
+      "question": "What is gross profit?",
+      "options": ["Total sales", "Sales - Cost of goods sold", "Net profit", "Total cost"],
+      "correct": 1
+    },
+    {
+      "question": "A balance sheet shows:",
+      "options": ["Profit only", "Financial position at a point in time", "Sales only", "Expenses only"],
+      "correct": 1
+    }
+  ],
+  "government": [
+    {
+      "question": "Democracy means:",
+      "options": ["Rule by few", "Government by the people", "Military rule", "Monarchial rule"],
+      "correct": 1
+    },
+    {
+      "question": "The three arms of government are:",
+      "options": ["Federal, State, Local", "Executive, Legislature, Judiciary", "Army, Navy, Air Force", "President, Governor, Chairman"],
+      "correct": 1
+    },
+    {
+      "question": "The head of state in Nigeria is the:",
+      "options": ["Vice President", "President", "Senate President", "Chief Justice"],
+      "correct": 1
+    },
+    {
+      "question": "The principle of separation of powers was proposed by:",
+      "options": ["Montesquieu", "Aristotle", "Plato", "Marx"],
+      "correct": 0
+    },
+    {
+      "question": "A constitution is:",
+      "options": ["Law book", "Supreme law of the land", "Government policy", "Court judgment"],
+      "correct": 1
+    },
+    {
+      "question": "Nigeria operates a:", 
+      "options": ["Unitary system", "Federal system", "Confederal system", "Monarchial system"],
+      "correct": 1
+    },
+    {
+      "question": "The legislature makes:",
+      "options": ["Laws", "Judgments", "Appointments", "Arrests"],
+      "correct": 0
+    },
+    {
+      "question": "Universal adult suffrage means:",
+      "options": ["Children can vote", "All adults can vote", "Only men can vote", "Only educated can vote"],
+      "correct": 1
+    },
+    {
+      "question": "The judiciary interprets:",
+      "options": ["The constitution and laws", "Elections", "Budgets", "Policies"],
+      "correct": 0
+    },
+    {
+      "question": "A pressure group aims to:",
+      "options": ["Form government", "Influence government policy", "Overthrow government", "Make laws"],
+      "correct": 1
+    },
+    {
+      "question": "Civil service is characterized by:",
+      "options": ["Partisanship", "Permanence and neutrality", "Temporary employment", "Military rule"],
+      "correct": 1
+    },
+    {
+      "question": "The concept of rule of law means:",
+      "options": ["Law is supreme", "President is supreme", "Military is supreme", "No law"],
+      "correct": 0
+    },
+    {
+      "question": "A referendum is:",
+      "options": ["Direct vote on an issue", "Election of president", "Court case", "Party primary"],
+      "correct": 0
+    },
+    {
+      "question": "The right to vote is called:",
+      "options": ["Franchise", "Freedom", "Liberty", "Justice"],
+      "correct": 0
+    },
+    {
+      "question": "Nigeria gained independence in:",
+      "options": ["1960", "1963", "1970", "1975"],
+      "correct": 0
+    },
+    {
+      "question": "A federal system of government has:",
+      "options": ["One level of government", "Two or more levels", "No government", "Military only"],
+      "correct": 1
+    },
+    {
+      "question": "The INEC is responsible for:",
+      "options": ["Making laws", "Conducting elections", "Judging cases", "Making policies"],
+      "correct": 1
+    },
+    {
+      "question": "Checks and balances ensure:",
+      "options": ["One arm dominates", "Balance of power", "Military rule", "Monarchy"],
+      "correct": 1
+    },
+    {
+      "question": "A unicameral legislature has:",
+      "options": ["One house", "Two houses", "Three houses", "No house"],
+      "correct": 0
+    },
+    {
+      "question": "The National Assembly comprises:",
+      "options": ["Senate only", "House of Reps only", "Senate and House of Reps", "State assemblies"],
+      "correct": 2
+    },
+    {
+      "question": "Sovereignty means:",
+      "options": ["Independence", "Supreme power", "Democracy", "Leadership"],
+      "correct": 1
+    },
+    {
+      "question": "A Bill becomes law after:",
+      "options": ["Introduction", "Presidential assent", "First reading", "Committee stage"],
+      "correct": 1
+    },
+    {
+      "question": "Local government is the:",
+      "options": ["First tier", "Second tier", "Third tier", "Fourth tier"],
+      "correct": 2
+    },
+    {
+      "question": "A coalition government is formed by:",
+      "options": ["One party", "Two or more parties", "Military", "Traditional rulers"],
+      "correct": 1
+    },
+    {
+      "question": "Parliamentary system features:",
+      "options": ["Separation of powers", "Fusion of powers", "Military rule", "No government"],
+      "correct": 1
+    },
+    {
+      "question": "The ombudsman is responsible for:",
+      "options": ["Making laws", "Investigating complaints", "Judging cases", "Conducting elections"],
+      "correct": 1
+    },
+    {
+      "question": "Recall is a process where:",
+      "options": ["Politicians are remembered", "Elected officials are removed", "Laws are cancelled", "Elections are repeated"],
+      "correct": 1
+    },
+    {
+      "question": "Public opinion is:",
+      "options": ["Government view", "Collective views of citizens", "Court decision", "Military decree"],
+      "correct": 1
+    },
+    {
+      "question": "A monarchy is headed by a:",
+      "options": ["President", "King or Queen", "Prime Minister", "Military officer"],
+      "correct": 1
+    },
+    {
+      "question": "Centralization of power means:",
+      "options": ["Power distributed", "Power concentrated at center", "No power", "Equal power"],
+      "correct": 1
+    },
+    {
+      "question": "The concept of equality before the law is a feature of:",
+      "options": ["Dictatorship", "Rule of law", "Military rule", "Anarchy"],
+      "correct": 1
+    },
+    {
+      "question": "Political parties aim to:",
+      "options": ["Win elections and form government", "Destroy government", "Make money", "Build schools"],
+      "correct": 0
+    },
+    {
+      "question": "A writ of habeas corpus protects against:",
+      "options": ["Taxation", "Unlawful detention", "Voting", "Speech"],
+      "correct": 1
+    },
+    {
+      "question": "The cabinet consists of:",
+      "options": ["All citizens", "President and ministers", "Judges", "Military officers"],
+      "correct": 1
+    },
+    {
+      "question": "Delegated legislation is made by:",
+      "options": ["Legislature only", "Executive agencies", "Judiciary", "Citizens"],
+      "correct": 1
+    },
+    {
+      "question": "A written constitution is:",
+      "options": ["Not documented", "Documented in one document", "Oral", "Flexible"],
+      "correct": 1
+    },
+    {
+      "question": "The doctrine of collective responsibility applies to:",
+      "options": ["Judiciary", "Cabinet", "Civil service", "Military"],
+      "correct": 1
+    },
+    {
+      "question": "Nationalism means:",
+      "options": ["Hatred of nation", "Love for one's country", "Love for other countries", "No feeling"],
+      "correct": 1
+    },
+    {
+      "question": "A proportional representation system ensures:",
+      "options": ["Winner takes all", "Seats reflect votes", "No representation", "One party wins"],
+      "correct": 1
+    },
+    {
+      "question": "The United Nations was founded in:",
+      "options": ["1945", "1950", "1960", "1970"],
+      "correct": 0
+    }
+  ]
+}

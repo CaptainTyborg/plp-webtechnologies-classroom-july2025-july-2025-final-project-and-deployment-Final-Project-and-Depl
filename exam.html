@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exam in Progress - PREP</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="exam-container">
+        <div class="exam-header">
+            <div class="exam-info">
+                <h2>JAMB Practice Exam</h2>
+                <p id="currentSubject">Subject</p>
+            </div>
+            <div class="exam-controls">
+                <div class="timer" id="timer">
+                    <span class="timer-icon">⏱️</span>
+                    <span id="timeDisplay">02:00:00</span>
+                </div>
+                <button class="btn-calculator" id="calculatorBtn">🧮 Calculator</button>
+                <button class="theme-toggle" id="themeToggle">
+                    <span class="icon">🌙</span>
+                </button>
+            </div>
+        </div>
+
+        <div class="exam-body">
+            <div class="exam-sidebar">
+                <div class="subject-tabs" id="subjectTabs"></div>
+                
+                <div class="question-grid" id="questionGrid"></div>
+
+                <button class="btn-submit" id="submitBtn">Submit Exam</button>
+            </div>
+
+            <div class="exam-main">
+                <div class="question-container">
+                    <div class="question-header">
+                        <h3>Question <span id="questionNumber">1</span> of <span id="totalQuestions">40</span></h3>
+                    </div>
+
+                    <div class="question-text" id="questionText"></div>
+
+                    <div class="options-container" id="optionsContainer"></div>
+
+                    <div class="navigation-buttons">
+                        <button class="btn-nav" id="prevBtn">← Previous</button>
+                        <button class="btn-nav" id="nextBtn">Next →</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Calculator Modal -->
+        <div class="modal" id="calculatorModal">
+            <div class="modal-content calculator-content">
+                <div class="modal-header">
+                    <h3>Calculator</h3>
+                    <button class="close-btn" id="closeCalculator">×</button>
+                </div>
+                <div class="calculator">
+                    <div class="calculator-display" id="calcDisplay">0</div>
+                    <div class="calculator-buttons">
+                        <button class="calc-btn calc-clear">C</button>
+                        <button class="calc-btn calc-operator">÷</button>
+                        <button class="calc-btn calc-operator">×</button>
+                        <button class="calc-btn calc-operator">←</button>
+                        
+                        <button class="calc-btn calc-number">7</button>
+                        <button class="calc-btn calc-number">8</button>
+                        <button class="calc-btn calc-number">9</button>
+                        <button class="calc-btn calc-operator">−</button>
+                        
+                        <button class="calc-btn calc-number">4</button>
+                        <button class="calc-btn calc-number">5</button>
+                        <button class="calc-btn calc-number">6</button>
+                        <button class="calc-btn calc-operator">+</button>
+                        
+                        <button class="calc-btn calc-number">1</button>
+                        <button class="calc-btn calc-number">2</button>
+                        <button class="calc-btn calc-number">3</button>
+                        <button class="calc-btn calc-equals" style="grid-row: span 2;">=</button>
+                        
+                        <button class="calc-btn calc-number" style="grid-column: span 2;">0</button>
+                        <button class="calc-btn calc-number">.</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Submit Confirmation Modal -->
+        <div class="modal" id="submitModal">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h3>Submit Exam?</h3>
+                </div>
+                <div class="modal-body">
+                    <p>Are you sure you want to submit your exam?</p>
+                    <p class="warning-text">You have answered <span id="answeredCount">0</span> out of <span id="totalQuestionsCount">0</span> questions.</p>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn-secondary" id="cancelSubmit">Cancel</button>
+                    <button class="btn-primary" id="confirmSubmit">Submit</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="theme.js"></script>
+    <script src="exam.js"></script>
+</body>
+</html>
