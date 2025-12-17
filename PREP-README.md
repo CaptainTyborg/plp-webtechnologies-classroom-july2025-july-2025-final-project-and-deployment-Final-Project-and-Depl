@@ -422,6 +422,7 @@ xdg-open index.html    # Linux
 
 ## 📊 Github URL and the Link to the Publish website
 
+https://github.com/CaptainTyborg/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl.git
 https://captaintyborg.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
 
 
