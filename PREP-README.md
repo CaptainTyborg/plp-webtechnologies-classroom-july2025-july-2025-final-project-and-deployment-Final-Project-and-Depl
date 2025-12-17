@@ -420,6 +420,11 @@ xdg-open index.html    # Linux
 
 ---
 
+## 📊 Github URL and the Link to the Publish website
+
+https://captaintyborg.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
+
+
 ## 📊 Project Stats
 
 - **Lines of Code**: ~2,500+
